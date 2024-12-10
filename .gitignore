@@ -3,7 +3,6 @@
 # dependencies
 /task-manager-frontend/node_modules
 /task-manager/node_modules
-/task-manager/src/.env
 /.pnp
 .pnp.js
 
